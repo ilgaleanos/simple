@@ -1,0 +1,24 @@
+{
+  "name": "SIMPLE",
+  "version": "0.0.1",
+  "description": "Framework de alto rendimiento y productividad",
+  "keywords": [],
+  "author": "ilgaleanos",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-cli": "latest",
+    "babel-plugin-transform-decorators-legacy": "latest",
+    "babel-preset-env": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-plugin-transform-react-jsx": "latest",
+    "babelify": "latest",
+    "browserify": "latest",
+    "grunt": "^1.0.0",
+    "grunt-browserify": "latest",
+    "grunt-cli": "latest",
+    "grunt-closure-compiler": "latest",
+    "grunt-contrib-watch": "latest"
+  }
+}
